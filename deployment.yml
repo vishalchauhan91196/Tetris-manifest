@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: sevenajay/tetrisv2:latest
+        image: Update your image here
         ports:
         - containerPort: 3000   
 
